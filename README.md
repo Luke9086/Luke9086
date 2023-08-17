@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luke9086
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on machine learning and deep learning
+- 👀 I’m interested in Web3, Solidity
+- 🌱 I’m currently learning Javascript, React
+- 💞️ I’m looking to collaborate on Web3, Dapp development
 - 📫 How to reach me. you can mail to boranyu98@gmail.com
 
 <!---
